@@ -1,4 +1,2 @@
-Zacrye.github.io
-================
-
-My DBC Phase 0 github pages site
+# final-portoflio
+final portfolio for GW
